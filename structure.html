@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Architecture Diagram</title>
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <script>mermaid.initialize({ startOnLoad: true });</script>
+</head>
+<body>
+    <h1>Architecture Diagram for Gluten-Free Checker</h1>
+    <div class="mermaid">
+    graph LR
+        A[User] -->|HTTP Request| B[Flask Application]
+        B -->|Serves HTML| C[Templates Folder]
+        B -->|Handles Data| D[SQLite Database]
+        B -->|Loads Dependencies| E[Static Folder]
+        C -->|HTML Templates| F["index.html"]
+        C -->|HTML Templates| G["search_results.html"]
+        E -->|CSS/JS Files| H[CSS and JS]
+        D -->|Stores Data| I["food_data.db"]
+        D -->|Populated by Script| J["populate_from_csv.py"]
+    </div>
+    <p>The architecture consists of:</p>
+    <ul>
+        <li><b>Flask Application:</b> Handles HTTP requests and routes.</li>
+        <li><b>Templates:</b> Contains HTML files like <i>index.html</i> and <i>search_results.html</i>.</li>
+        <li><b>SQLite Database:</b> Stores food data in <i>food_data.db</i>.</li>
+        <li><b>Static Files:</b> Includes CSS and JS for styling and interactivity.</li>
+        <li><b>CSV Population Script:</b> <i>populate_from_csv.py</i> populates the database from <i>gluten_data.csv</i>.</li>
+    </ul>
+</body>
+</html>

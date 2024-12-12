@@ -1,0 +1,160 @@
+﻿Food,ChineseName,Category,Description
+Tempura,天婦羅,Asian Cuisine,"Batter for deep-frying, often made with wheat flour."
+Bao Buns,包子,Asian Cuisine,Soft buns made with wheat flour.
+Sesame Balls,芝麻球,Asian Cuisine,Deep-fried snacks made with glutinous rice but often contain wheat in the filling.
+Spring Roll Wrappers,春捲皮,Asian Cuisine,Thin sheets made with wheat flour.
+Peking Duck Pancakes,烤鴨餅,Asian Cuisine,Thin pancakes made with wheat flour.
+Egg Rolls,蛋捲,Asian Cuisine,Fried rolls made with wheat flour wrappers.
+Dumpling Wrappers,餃子皮,Asian Cuisine,"Made from wheat flour, used for dumplings."
+Scallion Pancakes,蔥油餅,Asian Cuisine,Chinese flatbread made with wheat flour.
+Wonton Wrappers,餛飩皮,Asian Cuisine,Chinese-style wrappers made with wheat.
+Fish Dumplings,魚餃,Asian Cuisine,Dumplings made with fish filling and wheat-based wrappers.
+Roti Canai,馬來煎餅,Asian Cuisine,"Flatbread made from wheat flour, popular in Southeast Asia."
+Hot Cross Buns,十字麵包,Bakery,"Sweet, spiced buns made with wheat flour."
+Croissants,可頌,Bakery,Flaky pastry made with wheat flour.
+Cornbread,玉米麵包,Bakery,Often mixed with wheat flour for texture.
+Cinnamon Rolls,肉桂捲,Bakery,Sweet pastry made with wheat flour and cinnamon.
+Cinnamon Twist,肉桂捲圈,Bakery,Twisted sweet bread made with wheat flour.
+Bagels,貝果,Bakery,Dense bread made with wheat.
+Baguettes,法國麵包,Bakery,French bread made from wheat flour.
+Challah Bread,哈拉麵包,Bakery,Traditional Jewish braided bread made with wheat flour.
+Donuts,甜甜圈,Bakery,"Fried or baked, usually made with flour."
+Cake,蛋糕,Bakery,Typically made with flour.
+Rye Bread,黑麥麵包,Bakery,"Bread made with rye flour, contains gluten."
+Hamburger Buns,漢堡麵包,Bakery,"Bread for hamburgers, made with wheat flour."
+Muffins,瑪芬,Bakery,Baked goods made with wheat flour.
+Garlic Bread,蒜香麵包,Bakery,"Bread with garlic topping, made with wheat flour."
+Hot Dog Buns,熱狗麵包,Bakery,"Bread for hot dogs, made with wheat flour."
+Bread,麵包,Bakery,Made from wheat flour.
+Breadsticks,麵包棒,Bakery,Thin sticks of bread made from wheat flour.
+Beer,啤酒,Beverages,Made from barley or wheat.
+Malt Beverages,麥芽飲料,Beverages,Sweetened drinks made with barley or malt.
+Flavored Coffees,調味咖啡,Beverages,Some flavored coffees use malt or wheat-based flavoring.
+Cream of Wheat,奶油小麥粥,Breakfast,Porridge made from wheat semolina.
+French Toast,法式吐司,Breakfast,Bread dipped in egg mixture and fried.
+English Muffins,英式鬆餅,Breakfast,"Small, round bread made with wheat flour."
+Crispy Pancakes,脆皮煎餅,Breakfast,Savory or sweet pancakes made with wheat flour.
+Pancakes,煎餅,Breakfast,Flat cakes made with flour and eggs.
+Biscuits,甜餅乾,Breakfast,"Fluffy, baked bread made with wheat flour."
+Waffles,鬆餅,Breakfast,Made with wheat-based batter.
+Pancake Mix,鬆餅粉,Breakfast,Pre-made mix often containing wheat flour.
+Popovers,膨鬆小餅,Breakfast,"Light, airy breakfast bread made from wheat flour."
+Cereal,麥片,Breakfast ,"Many types contain wheat, barley, or malt.  (Cereal is not oatmeal.)"
+Gravy,肉汁,Condiments,Often thickened with flour.
+Miso Paste,味噌,Condiments,Some varieties include barley or wheat.
+Malt Vinegar,麥芽醋,Condiments,Vinegar made from malted barley.
+Teriyaki Sauce,照燒醬,Condiments,Commonly contains wheat-based soy sauce.
+Soy Sauce,醬油,Condiments,Typically contains wheat.
+Sweet and Sour Sauce,糖醋醬,Condiments,Sometimes thickened with wheat flour.
+Trifle,水果蛋糕,Desserts,Layered dessert made with sponge cake containing wheat.
+Fruit Tarts,水果塔,Desserts,Dessert with a wheat flour crust.
+Cream Puffs,奶油泡芙,Desserts,Pastry made with wheat flour filled with cream.
+Brownies,布朗尼,Desserts,Chocolate dessert made with flour.
+Cheesecake,乳酪蛋糕,Desserts,Typically made with crushed cookies or wheat flour crust.
+Pop Tarts,果醬餡餅,Desserts,Toaster pastries made with wheat flour.
+Éclairs,閃電泡芙,Desserts,Pastry made with wheat flour filled with custard.
+Macarons,馬卡龍,Desserts,"French cookies made with almond flour and powdered sugar, often with wheat-based fillings."
+Tiramisu,提拉米蘇,Desserts,Italian dessert often made with ladyfingers containing wheat.
+Swiss Roll,瑞士捲,Desserts,Sponge cake made with wheat flour.
+Baklava,蜜糖千層酥,Desserts,Middle Eastern dessert made with phyllo dough (wheat-based).
+Bread Pudding,麵包布丁,Desserts,Dessert made with leftover bread and wheat flour.
+Ice Cream Cones,甜筒,Desserts,Ice cream cones are typically made from wheat flour.
+Custard Tarts,蛋奶塔,Desserts,Pastry shells for custard tarts are made with wheat flour.
+Corn Dogs,玉米熱狗,Fast Food,"Battered hot dogs, often containing wheat flour."
+Pizza,披薩,Fast Food,Made with wheat-based crust.
+Fried Chicken Batter,炸雞粉,Fast Food,"Batter for coating fried chicken, often made with wheat flour."
+Veggie Burgers,素食漢堡,Fast Food,Often use wheat or barley as a binder.
+Mini Pizzas,迷你披薩,Fast Food,Small pizzas made with wheat crust.
+Chicken Nuggets,雞塊,Fast Food,Coated in batter or breadcrumbs made with wheat.
+Pita Bread,皮塔餅,Flatbreads,Flatbread made with wheat flour.
+Roti Prata,印度煎餅,Flatbreads,Indian-style flatbread made with wheat.
+Focaccia,佛卡夏,Flatbreads,Italian flatbread made with wheat flour.
+Shawarma Bread,沙威瑪餅皮,Flatbreads,Flatbread wraps often made with wheat flour.
+Chapati,恰巴提,Flatbreads,Traditional Indian flatbread made from whole wheat flour.
+Taco Shells,塔克餅皮,Flatbreads,Some types of taco shells made with wheat flour.
+Tortilla Wraps,墨西哥餅皮,Flatbreads,Flatbread wraps often made with wheat flour.
+Flour Tortillas,麵粉玉米餅,Flatbreads,Flatbread made entirely with wheat flour.
+Seitan,麵筋,Meat Substitute,Wheat gluten used as a meat substitute.
+Lasagna,千層麵,Noodles,Italian layered pasta dish made with wheat noodles.
+Chinese Egg Noodles,中國蛋麵,Noodles,Traditional noodles made from wheat flour and eggs.
+Ramen Noodles,拉麵,Noodles,Japanese wheat-based noodles.
+Udon,烏龍麵,Noodles,"Thick, chewy Japanese noodles made with wheat flour."
+Ravioli,義大利方餃,Noodles,"Pasta pockets filled with meat or cheese, made with wheat flour."
+Manicotti,義大利長通粉,Noodles,Stuffed pasta tubes made with wheat flour.
+Tortellini,義大利餛飩,Noodles,Stuffed pasta made with wheat flour.
+Pasta,義大利麵,Noodles,Contains wheat-based ingredients.
+Spaghetti,義大利直麵,Noodles ,Thin pasta made with wheat flour.
+Gnocchi,義大利麵疙瘩,Noodles ,"Potato-based pasta, often made with wheat flour."
+Phyllo Dough,千層酥皮,Pastries,Thin dough sheets made with wheat flour.
+Danish Pastry,丹麥酥,Pastries,Layered pastry made with wheat flour.
+Mooncakes,月餅,Pastries,Traditional Chinese pastry made with wheat flour.
+Meat Pies,肉派,Pastries,"Pastry filled with meat, often made with wheat flour crust."
+Samosas,咖哩角,Pastries,"Fried pastry filled with meat or vegetables, made with wheat flour."
+Curry Puffs,咖哩餃,Pastries,"Pastry filled with curried ingredients, made from wheat flour."
+Quiche Crust,法式鹹派餅皮,Pastries,Savory pie crust made with wheat flour.
+Puff Pastry,酥皮,Pastries,"Thin, flaky pastry made with wheat flour."
+Vol-au-Vent,酥皮盅,Pastries,Hollow pastry cases made with wheat flour.
+Turnovers,酥皮餡餅,Pastries,"Pastry filled with fruit or savory fillings, made with wheat flour."
+Pot Pies,鹹派,Pastries,Savory pie with a crust made from wheat flour.
+Fried Fish Batter,炸魚粉,Seafood,"Batter for coating fish, often made with wheat flour."
+Fried Calamari,炸魷魚,Seafood,Calamari rings coated in wheat flour batter.
+Beer Battered Shrimp,啤酒炸蝦,Seafood,Shrimp coated in batter made with beer and wheat flour.
+Fish Balls,魚丸,Seafood,May contain wheat starch as a binding agent.
+Fish Fingers,魚條,Seafood,Breaded fish sticks often made with wheat flour.
+Surimi,蟹肉棒,Seafood,"Imitation crab sticks, often include wheat starch."
+Barley and Lentil Salad,大麥扁豆沙拉,Side Dishes,Cold salad made with barley grains.
+Barley Pilaf,大麥燴飯,Side Dishes,Pilaf dish made with barley grains.
+Cheesy Breadsticks,奶酪麵包棒,Side Dishes,Breadsticks made with wheat flour and topped with cheese.
+Cornbread Stuffing,玉米麵包填料,Side Dishes,Stuffing made with a mix of cornbread and wheat flour.
+Pierogi,波蘭餃子,Side Dishes,Dumplings with wheat-based dough filled with potatoes or cheese.
+Hush Puppies,炸玉米丸,Side Dishes,Cornmeal fritters often mixed with wheat flour.
+Fried Polenta Sticks with Flour Coating,炸波蘭塔條,Side Dishes,Polenta sticks coated with wheat flour before frying.
+Fried Onion Topping,炸洋蔥粒,Side Dishes,Crispy onion topping coated in wheat flour batter.
+Yorkshire Pudding,約克郡布丁,Side Dishes,Traditional English side dish made with wheat flour batter.
+Herb-Crusted Vegetables,香草麵包屑蔬菜,Side Dishes,Vegetables baked with a crust of breadcrumbs containing wheat.
+Couscous,庫斯庫斯,Side Dishes,Small granules of wheat semolina served as a side.
+Eggplant Parmesan,焗烤千層茄子,Side Dishes,"Breaded eggplant slices baked with cheese, made with wheat flour."
+Ravioli Bake,焗烤義大利方餃,Side Dishes,Baked ravioli made with wheat pasta.
+Pasta Salad,義大利麵沙拉,Side Dishes,Cold salad made with pasta containing wheat.
+Tempura,天婦羅,Side Dishes,Typically coated in wheat flour batter and fried.
+Fried Rice with Soy Sauce,醬油炒飯,Side Dishes,Fried rice flavored with wheat-based soy sauce.
+Savory Crepes,鹹可麗餅,Side Dishes,"Thin pancakes made with wheat flour, filled with savory ingredients."
+Potato Gratin with Breadcrumbs,麵包屑馬鈴薯焗烤,Side Dishes,Gratin topped with breadcrumbs made from wheat.
+Bread Dumplings,麵包糰子,Side Dishes,Boiled dumplings made from wheat flour and bread.
+Ladyfingers,手指餅乾,Snacks,Light sponge biscuits made with wheat flour.
+Cheese Crackers,奶酪餅乾,Snacks,Savory crackers made with wheat flour.
+Licorice,甘草糖,Snacks,Contains wheat flour as a stabilizer.
+Churros,吉拿棒,Snacks,Deep-fried pastry made with wheat flour.
+Rice Crackers (with Soy Sauce),米餅（醬油味）,Snacks,Some rice crackers flavored with wheat-based soy sauce.
+Onion Rings,洋蔥圈,Snacks,"Batter-coated onion slices, often made with wheat flour."
+Beer Pretzels,啤酒脆餅,Snacks,Pretzels made with wheat and flavored with beer.
+Soft Pretzels,軟椒鹽脆餅,Snacks,Soft baked bread made with wheat flour.
+Pretzels,椒鹽脆餅,Snacks,"Baked snacks, often made with wheat."
+Cookies,曲奇,Snacks,Sweet baked treats made with flour.
+Crackers,鹹餅乾,Snacks,Snack made from wheat or rye.
+Granola Bars,穀物棒,Snacks,May contain barley malt or wheat.
+Energy Bars,能量棒,Snacks,Energy bars often contain wheat or barley malt as a binder.
+Miso Soup with Barley,大麥味噌湯,Soups,Miso soup containing barley miso or barley grains.
+Barley Soup,大麥湯,Soups,Soup containing barley grains.
+Beef and Barley Soup,牛肉大麥湯,Soups,Beef soup with barley as a key ingredient.
+Laksa,叻沙,Soups,Southeast Asian spicy noodle soup with wheat noodles.
+Cream of Mushroom Soup,奶油蘑菇湯,Soups,Thickened with wheat flour or barley.
+Ramen Soup,拉麵湯,Soups,Japanese soup served with wheat-based noodles.
+French Onion Soup,法式洋蔥湯,Soups,Often served with bread or croutons containing wheat.
+Tomato Bisque,番茄濃湯,Soups,Creamy soup often thickened with wheat flour.
+Clam Chowder,蛤蜊濃湯,Soups,Often thickened with wheat flour.
+Minestrone,義大利雜菜湯,Soups,Vegetable soup with pasta made from wheat.
+Wonton Soup,餛飩湯,Soups,Contains wontons made with wheat wrappers.
+Chicken Noodle Soup,雞肉麵湯,Soups,Made with noodles containing wheat.
+Barley Malt Extract,大麥麥芽精,Sweeteners,"Used as a natural sweetener, derived from barley."
+Wheat Glucose Syrup,小麥葡萄糖漿,Sweeteners,Sweetener derived from wheat starch.
+Brown Rice Syrup with Barley,含大麥的糙米糖漿,Sweeteners,Brown rice syrup sometimes mixed with barley malt.
+Honey with Wheat Additives,含小麥成分的蜂蜜,Sweeteners,Some flavored honey contains wheat-based additives.
+Maple Syrup with Additives,含添加劑的楓糖漿,Sweeteners,Maple syrup sometimes includes wheat-based stabilizers.
+Chocolate Syrup with Malt,含麥芽的巧克力糖漿,Sweeteners,Chocolate syrup flavored with barley malt.
+Powdered Drink Mix with Malt,含麥芽飲料粉,Sweeteners,Sweetened drink powder with barley malt.
+Malt Extract,麥芽精,Sweeteners,"Used in candies and cereals, derived from barley."
+Maltodextrin,麥芽糊精,Sweeteners,"Derived from wheat or barley, used as a sweetener."
+Malt Candies,麥芽糖果,Sweeteners,Hard or chewy candies made with barley malt.
+Malt Syrup,麥芽糖漿,Sweeteners,Made from barley or wheat.
+Caramel Coloring,焦糖色素,Sweeteners,Often derived from barley malt in sweet products.

@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+}
+body {
+    background-color: #f8f9fa;
+}
+.search-container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+.search-box {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+.search-button {
+    transition: all 0.3s;
+}
+.search-button:hover {
+    background-color: #0056b3;
+    color: white;
+}
+.category-card {
+    transition: all 0.3s;
+    border: none;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+.category-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.2);
+}
+.category-button {
+    font-weight: bold;
+}
