@@ -2,5 +2,3 @@ Flask==2.3.2
 pandas==1.5.3
 gunicorn==20.1.0
 fuzzywuzzy==0.18.0        # Fuzzy string matching library
-python-Levenshtein==0.21.1 # (Optional) Speedup for fuzzywuzzy
-sqlite3                   # SQLite database library (built-in, no need for pip install)
