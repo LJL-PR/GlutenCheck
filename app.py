@@ -1,4 +1,5 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, redirect, url_for
+from fuzzywuzzy import fuzz
 import sqlite3
 
 app = Flask(__name__)
@@ -26,21 +27,23 @@ def index():
 def search():
     query = request.form.get('query').strip().lower()
     conn = get_db_connection()
-
-    # Search in both name and category
-    results = conn.execute(
-        '''
-        SELECT * FROM foods 
-        WHERE lower(food_name) = ? 
-        OR lower(chinese_name) = ? 
-        OR lower(category) = ?
-        ''',
-        (query, query, query)
-    ).fetchall()
-
+    foods = conn.execute('SELECT * FROM foods').fetchall()
     conn.close()
 
-    gluten_free = not bool(results)  # If no results, consider gluten-free
+    # Use fuzzy matching to find close matches
+    results = []
+    for food in foods:
+        food_name = food['food_name'].lower()
+        chinese_name = food['chinese_name'].lower() if food['chinese_name'] else ''
+        category = food['category'].lower() if food['category'] else ''
+
+        # Compare query against name, Chinese name, and category
+        if (fuzz.partial_ratio(query, food_name) > 80 or
+            fuzz.partial_ratio(query, chinese_name) > 80 or
+            fuzz.partial_ratio(query, category) > 80):
+            results.append(food)
+
+    gluten_free = not bool(results)  # If no results, consider it gluten-free
     return render_template('search_results.html', results=results, query=query, gluten_free=gluten_free)
 
 if __name__ == '__main__':
